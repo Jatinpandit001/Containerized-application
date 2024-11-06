@@ -1,8 +1,5 @@
-Here's a small `README.md` for the **Containerized Website Application** project:
+ **Containerized Website Application**
 
----
-
-# Containerized Website Application
 
 This project is a simple website application containerized using Docker. The application serves an HTML page with basic CSS and JavaScript, all run through a lightweight Node.js server inside a Docker container.
 
